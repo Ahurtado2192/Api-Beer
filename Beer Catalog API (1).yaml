@@ -1,0 +1,7 @@
+{
+  "paths": [
+    "/healthz",
+    "/healthz/ping",
+    "/metrics"
+  ]
+}
